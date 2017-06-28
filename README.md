@@ -1,2 +1,2 @@
 # planets
-Project to colonise Mars
+Project to colonise Marz
